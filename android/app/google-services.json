@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "415345850632",
+    "project_id": "design-cd",
+    "storage_bucket": "design-cd.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:415345850632:android:f6742e42e88f7c745914bd",
+        "android_client_info": {
+          "package_name": "com.example.codedesign"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "415345850632-9908qe5ppouf2i8018l6qkhbgug18hff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCy_GWmLhHwDSBQbfy1Y1k6I-M6tPlVohM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "415345850632-9908qe5ppouf2i8018l6qkhbgug18hff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
